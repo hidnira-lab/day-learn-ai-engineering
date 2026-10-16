@@ -1,15 +1,15 @@
 # Day Learn: AI Engineering from Scratch
 
-Ini jurnal belajar dan tracker progress aku selama mengikuti course gratis dan open source
-[AI Engineering from Scratch](https://github.com/rohitg00/ai-engineering-from-scratch)
-(aiengineeringfromscratch.com), yang membahas AI engineering dari matematika dasar sampai
-sistem multi-agent lewat 20 phase dan ratusan lesson berbasis project.
+This is my learning journal and progress tracker while going through the free, open source
+course [AI Engineering from Scratch](https://github.com/rohitg00/ai-engineering-from-scratch)
+(aiengineeringfromscratch.com), which covers AI engineering from math foundations all the way
+to multi-agent systems across 20 phases and hundreds of project-based lessons.
 
-Aku mulai dari nol: belum pernah ngulik ML/AI sebelumnya, coding masih pemula, dan matematika
-perlu di-refresh lagi. Makanya aku jalan urut dari Phase 0 biar pondasinya kuat, bukan loncat
-ke bagian yang kelihatan seru doang.
+I'm starting from zero: no prior ML/AI experience, still a beginner at coding, and my math
+needs a refresh. That's why I'm going through the phases in order starting at Phase 0, to build
+a solid foundation instead of jumping straight to the parts that look more exciting.
 
-Semua lesson course aslinya ada di folder `ai-engineering-from-scratch/phases/`, tiap lesson
-punya penjelasan di `docs/en.md`, script pengecekan di `code/verify.py`, dan quiz di
-`quiz.json`. Progress aku sendiri dicatat di `PROGRESS.md`, sementara catatan per lesson ditulis
-di `notes/`, mengikuti template yang ada di `notes/TEMPLATE.md`.
+The original course lessons live in `ai-engineering-from-scratch/phases/`, where each lesson has
+its explanation in `docs/en.md`, a check script in `code/verify.py`, and a quiz in `quiz.json`.
+My own progress is tracked in `PROGRESS.md`, and notes for each lesson go in `notes/`, following
+the template in `notes/TEMPLATE.md`.

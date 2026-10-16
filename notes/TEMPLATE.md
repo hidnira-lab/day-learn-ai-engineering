@@ -1,14 +1,14 @@
 # <Phase N> - <Lesson Name>
 
-Tanggal: YYYY-MM-DD
-Sumber: `ai-engineering-from-scratch/phases/<phase>/<lesson>/docs/en.md`
+Date: YYYY-MM-DD
+Source: `ai-engineering-from-scratch/phases/<phase>/<lesson>/docs/en.md`
 
-Apa yang aku pelajari dari lesson ini, jelaskan dengan kata-kata sendiri.
+What I learned from this lesson, explained in my own words.
 
-Istilah atau konsep baru yang perlu diingat.
+New terms or concepts worth remembering.
 
-Kode yang aku tulis atau coba jalankan, taruh di sini kalau ada.
+Code I wrote or ran, if any, goes here.
 
-Hasil `verify.py`: belum dicoba / lolos / masih gagal.
+Result of `verify.py`: not tried yet / passed / still failing.
 
-Pertanyaan atau hal yang masih bingung, yang mau dicek lagi nanti.
+Questions or things I'm still unsure about, to revisit later.
