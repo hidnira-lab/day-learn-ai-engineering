@@ -7,7 +7,7 @@ Starting point: **Phase 0, Lesson 1 — Dev Environment**, going in order.
 
 ## Phase 0: Setup & Tooling
 
-- [ ] 01 Dev Environment
+- [x] 01 Dev Environment
 - [ ] 02 Git and Collaboration
 - [ ] 03 GPU Setup and Cloud
 - [ ] 04 APIs and Keys
