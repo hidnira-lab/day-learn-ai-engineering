@@ -8,7 +8,7 @@ Starting point: **Phase 0, Lesson 1 — Dev Environment**, going in order.
 ## Phase 0: Setup & Tooling
 
 - [x] 01 Dev Environment
-- [ ] 02 Git and Collaboration
+- [x] 02 Git and Collaboration
 - [ ] 03 GPU Setup and Cloud
 - [ ] 04 APIs and Keys
 - [ ] 05 Jupyter Notebooks
